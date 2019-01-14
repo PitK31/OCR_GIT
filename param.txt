@@ -1,2 +1,3 @@
 ceci est un fichier de paramètres
 ajout d'un nouveau paramètre
+ajout du parametre X
